@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/game04.iml" filepath="$PROJECT_DIR$/game04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/assets/game04-assets.iml" filepath="$PROJECT_DIR$/assets/game04-assets.iml" />
+      <module fileurl="file://$PROJECT_DIR$/core/game04-core.iml" filepath="$PROJECT_DIR$/core/game04-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java/game04-java.iml" filepath="$PROJECT_DIR$/java/game04-java.iml" />
+    </modules>
+  </component>
+</project>
+
